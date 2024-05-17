@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.74c982f7.css",
+    "main.js": "/robofriends/static/js/main.92fa2936.js",
+    "static/js/453.eceb90f9.chunk.js": "/robofriends/static/js/453.eceb90f9.chunk.js",
+    "static/media/FHA Nicholson French NCV.woff": "/robofriends/static/media/FHA Nicholson French NCV.1dcef648bebaa4cca552.woff",
+    "index.html": "/robofriends/index.html",
+    "main.74c982f7.css.map": "/robofriends/static/css/main.74c982f7.css.map",
+    "main.92fa2936.js.map": "/robofriends/static/js/main.92fa2936.js.map",
+    "453.eceb90f9.chunk.js.map": "/robofriends/static/js/453.eceb90f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74c982f7.css",
+    "static/js/main.92fa2936.js"
+  ]
+}
