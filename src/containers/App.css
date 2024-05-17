@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'FHA Nicholson French NCV Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('FHA Nicholson French NCV Regular'), url('FHA Nicholson French NCV.woff') format('woff');
+    }
+
+h1{
+    font-family: 'FHA Nicholson French NCV Regular';
+    font-weight: 200;
+    color: #0ccac4;
+}
